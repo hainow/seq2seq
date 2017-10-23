@@ -1,0 +1,3 @@
+dir1/file1  123
+dir2/file2  456
+dir3/file3  789
